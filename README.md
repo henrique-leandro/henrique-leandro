@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-leandro&show_icons=true&theme=radical)
 <!--
 **henrique-leandro/henrique-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src=" https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg " width="50px">
 -->
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html" style="vertical-align:top; margin:4px""style="width="50px">
-</p>
+
