@@ -1,5 +1,5 @@
 ### Oi, bem-vindo ao meu Github  🤖 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-leandroshow_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-leandro&show_icons=true&theme=radical)
 <!--
 **henrique-leandro/henrique-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
