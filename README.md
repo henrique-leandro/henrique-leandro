@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <img src=" https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg " width="50px">
 -->
 <p>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
