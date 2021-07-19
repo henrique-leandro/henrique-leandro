@@ -1,4 +1,4 @@
-### Oi, bem-vindo ao meu Github  🤖 
+### Oi, bem-vindo ao meu Github 👨‍💻 
  <div>
    <a href="https://github.com/henrique-leandro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-leandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,9 @@
   <img align="center" alt="henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ <div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
 <!--
 **henrique-leandro/henrique-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
