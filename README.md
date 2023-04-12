@@ -10,5 +10,7 @@
   <img align="center" alt="henrique-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="henrique-js" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="henrique-git" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="henrique-node" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> 
+                                                                                                                                              
  
 </div>
